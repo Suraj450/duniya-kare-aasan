@@ -1,0 +1,7 @@
+Hii we are learning git basics.
+
+Branching commands:
+1. git branch branch_name
+2. git checkout branch_name
+3. Make changes of your choice
+4. add, commit, push to branch_name

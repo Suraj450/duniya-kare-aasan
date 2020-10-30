@@ -1,1 +1,18 @@
 ABD is mr 360.
+
+--------------------- master --------------
+--------------------- master -------------- + ------------- kuch aur commits ------------  = video-calling branch
+
+git merge => video calling branch ko master m merge 
+
+video calling - suraj
+audio calling - abhishek
+
+video calling branch merged into master
+audio calling branch merged
+
+load-articles
+adminpage
+contacts
+
+master
